@@ -1,8 +1,9 @@
-# Data-Analysis
-Data Science Projects Using Python and a little R. 
+# Data Analysis for Smart Energy Managment(DASM)
 
-This repository is a place to share my code and notebooks for numerous data science projects.
+---------------------------
+DASM Projects Using Python. 
 
-Many of these projects are written up on my [Towards Data Science Medium page](https://medium.com/@williamkoehrsen). 
 
-Reach me on Twitter [@koehrsen_will](https://twitter.com/@koehrsen_will)
+
+李天昊，王波波，2019.11
+上海视易信息技术有限公司 @2005-2020
